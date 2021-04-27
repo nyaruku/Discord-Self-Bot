@@ -2,12 +2,12 @@
 
 #!!WARNING!!
 -------------------------------------------------------------------------------------------------------------
-Self-Bots are AGAINST Discord's TOS (Terms of Service)
-USING ON YOUR OWN RISK!
-I'M NOT RESPONIBLE IF YOUR ACCOUNT GETS DELETED/BANNED!
+Self-Bots are AGAINST Discord's TOS (Terms of Service)<br/>
+USING ON YOUR OWN RISK!<br/>
+I'M NOT RESPONIBLE IF YOUR ACCOUNT GETS DELETED/BANNED!<br/>
 -------------------------------------------------------------------------------------------------------------
-Stuff: 
-
-Node.js (15.10.0): https://nodejs.org/
-Discord.js-selfbot (12.0.2): https://www.npmjs.com/package/discord.js-selfbot
-NPM: npm@7.5.3
+Stuff: <br/>
+<br/>
+Node.js (15.10.0): https://nodejs.org/<br/>
+Discord.js-selfbot (12.0.2): https://www.npmjs.com/package/discord.js-selfbot<br/>
+NPM: npm@7.5.3<br/>
