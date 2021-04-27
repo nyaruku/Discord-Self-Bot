@@ -1,6 +1,6 @@
 # Discord-Self-Bot
 
-#!!WARNING!!
+!!WARNING!!
 -------------------------------------------------------------------------------------------------------------
 Self-Bots are AGAINST Discord's TOS (Terms of Service)<br/>
 USING ON YOUR OWN RISK!<br/>
